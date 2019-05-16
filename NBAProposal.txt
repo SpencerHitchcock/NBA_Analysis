@@ -1,0 +1,18 @@
+The Team
+Zacharias Girmay | Spencer Hitchcock
+
+Problem Statement a.k.a Decompose The Ask
+Is their an age based cutoff point where shooting affects the lengths of career. Can an nba player lengthen their career by improving their 3 pt shooting?
+
+Identify Data Sources
+Private api which reflects data from 'www.nba.com'
+
+Define Strategy and Metrics
+We will be analyzing all of the point guards drafted in the first round from 09 to now
+
+Description of Data Analysis Tools You Plan to Use
+Sci Kit - Learn to make a predictive analysis of when a player is going to retire based on their shooting stats.
+Tableau to show off the beautiful data
+
+Describe the Data Products Your Project Will Produce
+A visual dashboard of our findings, also our prediction of who will be retiring next and if shooting ability is truly a skill th.
